@@ -1,0 +1,2 @@
+usernames can't be longer than 20 char due to database
+password can't be longer than 20 char due to database
