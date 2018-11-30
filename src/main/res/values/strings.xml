@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Plan_it</string>
+    <string name="event1">Event 1</string>
+    <string name="event_1">Event 1:</string>
+    <string name="event_2">Event 2</string>
+    <string name="description">Description:</string>
+    <string name="s_party">S_party</string>
+    <string name="_9pm_10pm">9PM-10PM</string>
+</resources>
